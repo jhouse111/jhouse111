@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning a bit more about java script!
 - 👯 I’m looking to collaborate on coding!
 - 🤔 I’m looking for help with a good coder!
-- 💬 Ask me about how I got to code and to make games!
+- 💬 Ask me about how I got to make games on roblox!
 
